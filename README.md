@@ -3,7 +3,7 @@
 Este programa foi criado para contar e exibir na tela o número
 de pessoas que irão se batizar.
 
-## Seu funcionamento é bem simples, basta acessar o link: tatatta
+## Seu funcionamento é bem simples, basta acessar o link: https://felipenotari.github.io/Contador_Festa_Das_Aguas/
 
 1.Digitar o número de pessoas que irão se batizar.
 2.Presionar "ENTER" para começar a contagem.
