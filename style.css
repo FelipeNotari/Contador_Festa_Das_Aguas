@@ -1,0 +1,32 @@
+@import url("https://use.typekit.net/wyi7lwv.css");
+
+*{
+    font-family: playfair-display, serif;
+
+    font-weight: 400;
+
+    font-style: italic;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("images/WhatsApp\ Image\ 2022-09-30\ at\ 16.04.55.jpeg");
+}
+
+.contador{
+    text-align: center;
+    border: 0px;
+    font-size: 200px;
+    margin: auto;
+    width: 500px;
+    background: none;
+    position: relative;
+    top: 400px;
+    left: 1200px;
+    color: rgba(233, 250, 255, 0.661);
+}
+
+.hidden{
+    display: none;
+}
